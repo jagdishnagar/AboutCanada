@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AboutCanada</string>
+    <string name="error_msg">About Canada Data is not Available either Network issue or Some other issue, please check with Support team</string>
+</resources>
